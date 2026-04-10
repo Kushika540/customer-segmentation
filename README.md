@@ -129,23 +129,4 @@ customer-segmentation/
 
 ---
 
-## 📚 Conclusion
-
-K-Means clustering is an effective method for customer segmentation. By grouping customers based on their behavior, businesses can optimize marketing strategies and improve customer satisfaction.
-
----
-
-## 👩‍💻 Author
-
-**Kushika Kumari**
-BTech CSE Student
-
----
-
-## ⭐ Future Improvements
-
-* Use more features (Age, Gender, etc.)
-* Try advanced clustering (DBSCAN, Hierarchical)
-* Deploy as a web app
-
 ---
